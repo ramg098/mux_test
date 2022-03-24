@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae286a2a-652b-44fe-a8e4-d2a70cda165b" name="Changes" comment="Adding structure and main.go">
-      <change beforePath="$PROJECT_DIR$/app/.git-keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/handler/.git-keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/.git-keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/.git-keep" beforeDir="false" />
+    <list default="true" id="ae286a2a-652b-44fe-a8e4-d2a70cda165b" name="Changes" comment="Structured fiels">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/application.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/application.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handler/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/handler/handler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/model.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/utils/util.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding structure and main.go" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding structure and main.go" />
+    <MESSAGE value="Structured fiels" />
+    <option name="LAST_COMMIT_MESSAGE" value="Structured fiels" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
